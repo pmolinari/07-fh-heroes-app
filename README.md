@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Features!
+
+  - Este es un proyecto de React que muestra como hacer un login basico (Frontend)
+  - Tiene rutas Publicas y Privadas
+  - Recuerda las rutas navegadas y vuelve a las mismas si el usuario sale de sesión y vuelve entrar
+
 ## Available Scripts
 
 In the project directory, you can run:
